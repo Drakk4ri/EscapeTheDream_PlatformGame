@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 228425775
+    locked: 0
+  - name: Shrooms
+    uniqueID: 2599193951
+    locked: 0
+  - name: Platforms
+    uniqueID: 139297
+    locked: 0
